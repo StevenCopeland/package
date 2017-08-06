@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sourcefetch package
 
 A short description of your package.
@@ -7,4 +6,3 @@ A short description of your package.
 =======
 # package
 package
->>>>>>> 500e2a7c9121e5415be062031f048aca4b5da92f
