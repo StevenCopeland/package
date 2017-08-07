@@ -3,10 +3,9 @@
   "main": "./lib/sourcefetch",
   "version": "0.5.0",
   "description": "my package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": "sourcefetch:toggle"
+    "atom-workspace": "sourcefetch:fetch"
   },
   "repository": "https://github.com/StevenCopeland/package",
   "license": "MIT",
@@ -14,5 +13,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "cheerio": "^0.20.0",
+    "google": "^2.0.0",
+    "request": "^2.73.0"
   }
 }
