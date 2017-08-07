@@ -18,6 +18,8 @@
     "cheerio": "^0.20.0",
     "google": "^2.0.0",
     "request": "^2.73.0"
+},
+  "dependencies": {
+
   }
-  "dependencies": {}
 }
